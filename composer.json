@@ -11,5 +11,12 @@
             "name": "Will Ridgers",
             "email": "will@yearbookmachine.com"
         }
-    ]
+    ],
+    "require": {
+      "php": ">=5.3.0"
+    },
+     "autoload": {
+        "classmap" : ["lib/HighriseAPI.class.php"]
+    }
 }
+
