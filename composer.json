@@ -1,0 +1,15 @@
+{
+    "name": "adamdunkley/highrise-api",
+    "description": "API wrapper for 37signals' Highrise.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Dunkley",
+            "email": "adam@yearbookmachine.com"
+        },
+        {
+            "name": "Will Ridgers",
+            "email": "will@yearbookmachine.com"
+        }
+    ]
+}
