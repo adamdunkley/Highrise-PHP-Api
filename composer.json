@@ -1,5 +1,5 @@
 {
-    "name": "adamdunkley/highrise-api",
+    "name": "adamdunkley/highrise-php-api",
     "description": "API wrapper for 37signals' Highrise.",
     "license": "MIT",
     "authors": [
